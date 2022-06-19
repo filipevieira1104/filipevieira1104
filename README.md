@@ -17,7 +17,8 @@
   </div>
   
   ##
- <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/filipe-vieira-de-paula-121818139//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/filipe-vieira-de-paula-121818139/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
