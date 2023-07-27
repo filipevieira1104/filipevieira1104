@@ -2,7 +2,7 @@
 <h3>Sejam muito bem-vindos ao meu perfil!</h3>
 
 - 👀  Atualmente trabalho  como Analista de Microinformática
-- 👩‍💻  Se formando  em Análise e Desenvolvimento de Sistemas 
+- 👩‍💻  Sou formando  em Análise e Desenvolvimento de Sistemas 
 - 🐍  Atualmente focado no aprendizado da linguagem Python            
 - 📫  Meu maior objetivo é ingressar na área de programação 
 
