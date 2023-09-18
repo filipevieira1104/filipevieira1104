@@ -1,9 +1,9 @@
 ## Olá Geek! Eu sou o Filipe Vieira ✌
 <h3>Sejam muito bem-vindos ao meu perfil!</h3>
 
-- 👀  Atualmente trabalho  como Analista de Microinformática
-- 👩‍💻  Sou formando  em Análise e Desenvolvimento de Sistemas 
-- 🐍  Atualmente focado no aprendizado da linguagem Python            
+- 👀  Atualmente trabalho  como Analista de Suporte
+- 👩‍💻  Sou formando  em Análise e Desenvolvimento de Sistemas e estou em minha segunda graduação em Banco de dados
+- 🐍  Atualmente focado no aprendizado da linguagem Python e das tecnologias da atualidade          
 - 📫  Meu maior objetivo é ingressar na área de programação 
 
 <div align="center">
